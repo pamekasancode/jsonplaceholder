@@ -1,41 +1,40 @@
 {
-  "data": {
-     {
-  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCPNltttfI_8s2dGnVwlFSpzfma3KxBhNUXQ&usqp=CAU",
-  "name": "Persona 5",
-  "kategori": "tshirt",
-  "price": "IDR 45.000"
-}, 
-{
-  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD6TH1ImjrEB_Xaetd_l7IIgvziAHI-8Cmhg&usqp=CAU",
-  "name": "Otaku Type",
-  "kategori": "tshirt",
-  "price": "IDR 50.000"
-},
-{
-  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdUR9pF5mcdchvQ0sJyBghfCJ2GZGP_IYL5g&usqp=CAU",
-  "name": "Zero Two",
-  "kategori": "tshirt",
-  "price": "IDR 50.000"
-},
-{
-  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgDRXFkrX5s5qsky0SrKSah5Z-2taP1esRwA&usqp=CAU",
-  "name": "Death Note",
-  "kategori": "tshirt",
-  "price": "IDR 45.000"
-},
-{
-  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfQWs3uMATfHnLOtYh_LRQ0Uq8MKmV-ax15g&usqp=CAU",
-  "name": "Yukine Noragami",
-  "kategori": "tshirt",
-  "price": "IDR 70.000"
-},
-{
-  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc3-OKfByTeXlBSugIDZSG08u4WrpQwRRA9g&usqp=CAU",
-  "name": "Kimetsu No Yaiba",
-  "kategori": "tshirt",
-  "price": "IDR 70.000"
-}
-
-  }
+  "data": [
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCPNltttfI_8s2dGnVwlFSpzfma3KxBhNUXQ&usqp=CAU",
+      "name": "Persona 5",
+      "kategori": "tshirt",
+      "price": "IDR 45.000"
+    }, 
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD6TH1ImjrEB_Xaetd_l7IIgvziAHI-8Cmhg&usqp=CAU",
+      "name": "Otaku Type",
+      "kategori": "tshirt",
+      "price": "IDR 50.000"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdUR9pF5mcdchvQ0sJyBghfCJ2GZGP_IYL5g&usqp=CAU",
+      "name": "Zero Two",
+      "kategori": "tshirt",
+      "price": "IDR 50.000"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgDRXFkrX5s5qsky0SrKSah5Z-2taP1esRwA&usqp=CAU",
+      "name": "Death Note",
+      "kategori": "tshirt",
+      "price": "IDR 45.000"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfQWs3uMATfHnLOtYh_LRQ0Uq8MKmV-ax15g&usqp=CAU",
+      "name": "Yukine Noragami",
+      "kategori": "tshirt",
+      "price": "IDR 70.000"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc3-OKfByTeXlBSugIDZSG08u4WrpQwRRA9g&usqp=CAU",
+      "name": "Kimetsu No Yaiba",
+      "kategori": "tshirt",
+      "price": "IDR 70.000"
+    }
+  ]
 }
