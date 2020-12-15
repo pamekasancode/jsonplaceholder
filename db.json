@@ -1,4 +1,6 @@
 {
+  "data": {
+     {
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCPNltttfI_8s2dGnVwlFSpzfma3KxBhNUXQ&usqp=CAU",
   "name": "Persona 5",
   "kategori": "tshirt",
@@ -33,4 +35,7 @@
   "name": "Kimetsu No Yaiba",
   "kategori": "tshirt",
   "price": "IDR 70.000"
+}
+
+  }
 }
